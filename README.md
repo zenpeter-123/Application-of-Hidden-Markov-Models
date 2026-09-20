@@ -10,5 +10,5 @@ Implements Baum-Welch algorithm
 
 ## show.py
 
-Demonstrates efficiency of initialization against starting with random parameeters.
+Demonstrates efficiency of initialization against starting with random parameters.
 
