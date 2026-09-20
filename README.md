@@ -1,4 +1,4 @@
-See HMM.application.pdf for theory.
+See HMM.application.pdf for theory and results.
 
 ## initialize.py
 
