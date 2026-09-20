@@ -1,14 +1,14 @@
+See HMM.application.pdf for theory.
 
-#Initialize.py
+##Initialize.py
 
 Calculates an estimate for stationary distibution of model
 
-#baum_welch.py
+##baum_welch.py
 
 Implements Baum-Welch algorithm
 
-#show.py
+##show.py
 
 Demonstrates efficiency of initialization against starting with random parameeters.
 
-#See HMM.application.pdf for theory.
