@@ -17,13 +17,6 @@ EM only finds a local optimum, so the starting point matters. Instead of random 
 - the initial distribution is its stationary distribution,
 - the means and covariances are estimated from the days in each regime.
 
-The model is then evaluated on the following **30 days**.
-
-| Start | Log-likelihood on the test window |
-|---|---|
-| Initialized from the training window | **TODO** |
-| Best of **TODO** random starts, **TODO** EM steps each | **TODO** |
-
 <!-- Add a plot here, for example the log-likelihood over EM iterations for both starts:
 ![Log-likelihood](loglik.png) -->
 
